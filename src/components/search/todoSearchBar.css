@@ -1,0 +1,19 @@
+.searchTodos {
+    outline: none;
+    background: none;
+    border: 1px solid #4e6597;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    width: 300px;
+    color: #fff;
+}
+
+button {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    background: #4e6597;
+    color: #fff;
+    border: none;
+    padding: 0.55rem;
+    cursor: pointer;
+  }

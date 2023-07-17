@@ -1,0 +1,27 @@
+.Pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .Pagination button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #8758ff;
+    margin: 0 0.25rem;
+    padding: 0.25rem 0.5rem;
+  }
+  
+  .Pagination span {
+    background: #8758ff;
+    color: #fff;
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+  }
+  
+  .Pagination span.active {
+    background: #fff;
+    color: #8758ff;
+  }
+  
