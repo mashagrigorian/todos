@@ -71,18 +71,16 @@ h1 {
   cursor: pointer;
 }
 
-/* .fa-trash {
-  margin-left: 0.2rem;
-} */
-
 .hidden {
   color: #c5aeff;
   filter: blur(1px);
 }
 
-
 .completed {
   color: #c5aeff;
   text-decoration: line-through;
+} 
+
+.highlighted {
+  background-color: #8758ff;
 }
- 
